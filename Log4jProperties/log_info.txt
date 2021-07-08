@@ -1,0 +1,3 @@
+2021-07-08 18:03:18,418(yyyy-MM-dd HH:mm:ss)INFO Main <clinit> main 0 10 Log4j Setup is ready.
+2021-07-08 18:03:18,421(yyyy-MM-dd HH:mm:ss)DEBUG Main main main 3 20 Start of main(-) method.
+2021-07-08 18:03:18,421(yyyy-MM-dd HH:mm:ss)DEBUG Main main main 3 21 Sample debug level statement
