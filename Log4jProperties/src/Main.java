@@ -6,7 +6,7 @@ public class Main {
     static {
         try {
             PropertyConfigurator.configure("src/log4j.properties");
-
+            //PropertyConfigurator.configureAndWatch("src/log4j.properties",  <delay in milliseconds>);
             logger.info("Log4j Setup is ready.");
         }
         catch(Exception e){
